@@ -9,7 +9,7 @@ LICENSE
 
 COMPILE TOOLS
 ===============
-* 
+* EMX 0.9d fix #4 + gcc 2.8.1 and GNU Make 3.76.1 or above.
 
 AUTHORS
 ===============
